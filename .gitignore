@@ -3,3 +3,4 @@ dist/
 test/coverage/
 .vscode/
 .DS_Store
+CLAUDE.md

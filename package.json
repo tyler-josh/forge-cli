@@ -1,6 +1,6 @@
 {
   "name": "@tylertech/forge-cli",
-  "version": "3.1.1",
+  "version": "3.2.0",
   "description": "A CLI for managing Tyler Forge™ Web Component projects.",
   "repository": {
     "type": "git",
@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@custom-elements-manifest/analyzer": "^0.10.4",
-    "@tylertech/forge-build-tools": "^3.1.1",
+    "@tylertech/forge-build-tools": "^3.2.0",
     "autoprefixer": "^10.4.21",
     "browser-sync": "^3.0.4",
     "canonical-path": "^1.0.0",
