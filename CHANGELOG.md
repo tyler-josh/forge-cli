@@ -1,19 +1,3 @@
-# v3.2.0 (Sat Jul 20 2025)
-
-#### 💥 Breaking Change
-
-- **BREAKING**: update @tylertech/forge-build-tools to 3.2.0 with async minifyHtml() API
-- **BREAKING**: inlineContentTask() function now processes HTML minification asynchronously
-
-#### 🔒 Security Fix
-
-- security: update @tylertech/forge-build-tools to 3.2.0 for critical security fixes
-- fix: update minifyHtml() usage to support async API in build-tools 3.2.0
-- security: addresses html-minifier ReDoS vulnerability (GHSA-pfq8-rq6v-vf5m)
-- security: addresses lodash.template command injection vulnerability (GHSA-35jh-r3h4-6jhm)
-- security: addresses @octokit ReDoS vulnerabilities via npm overrides
-
----
 
 # v3.1.1 (Fri May 23 2025)
 
